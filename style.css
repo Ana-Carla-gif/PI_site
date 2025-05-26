@@ -1,0 +1,10 @@
+.imagens {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.imagens img {
+    width: 200px;
+    height: auto;
+}
